@@ -16,6 +16,8 @@
 
 ## Instalar las dependencias y librerías
 -	`npm install`
+## Instalar el gulp clip para poder arrancar el entorno de trabajo
+-  `npm install --global gulp-cli`
 
 ## Entorno de trabajo
 - `gulp` (Para compilar scss a css, minimice css y js y compile listo para los archivos de producción).
