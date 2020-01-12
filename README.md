@@ -12,7 +12,6 @@
 - [Node.js](https://nodejs.org/en/download/ "Node Js")
 -  NPM (Comes with Node.js)
 - [Gulp 4](https://gulpjs.com/ "Gulp")
-- [Bower](https://bower.io/)
 
 ## Instalar las dependencias y librerías
 -	`npm install`
